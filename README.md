@@ -1,2 +1,2 @@
 # Desafio-POO
-Desafio de Poragamção OrentadA Objeto
+Desafio de Proagamção Orientada Objeto
